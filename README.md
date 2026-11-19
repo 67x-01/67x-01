@@ -1,14 +1,14 @@
-### Merhaba, ben Alper (if else) 👋
+### Hello, I'm Alper (if else) 👋
 
-🎮 **Unity** ve **C#** kullanarak oyun tasarlayan ve geliştiren genç bir oyun geliştiricisiyim. Hedefim gelecekte **Riot Games** gibi büyük oyun stüdyolarında yer almak.
+🎮 I am a young game developer designing and building games using **Unity** and **C#**. My goal is to work as an engineer in major game studios in the future.
 
-- 🕹️ **Unity & C#** ile oyun mekanikleri, karakter kontrolleri ve oynanış sistemleri geliştiriyorum.
-- 🌱 Temel sistem programlama becerilerimi güçlendirmek için **C++** öğrenmeye başlıyorum.
-- 🎯 Hedefim: Kendi özgün oyun prototiplerimi yayınlamak ve portfolyomu büyütmek.
+- 🕹️ I develop game mechanics, character controllers, and gameplay systems using **Unity & C#**.
+- 🌱 I am starting to learn **C++** to strengthen my core system programming skills.
+- 🎯 My goal: To publish my own original game prototypes and grow my portfolio.
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler & Araçlar
+### 🛠️ Technologies & Tools I Use
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -16,6 +16,6 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=67x-01&show_icons=true&theme=tokyonight)

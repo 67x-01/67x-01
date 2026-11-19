@@ -1,4 +1,4 @@
-### Hello, I'm Alper (if else) 👋
+### Hello, I'm 67x-01 (if else) 👋
 
 🎮 I am a young game developer designing and building games using **Unity** and **C#**. My goal is to work as an engineer in major game studios in the future.
 

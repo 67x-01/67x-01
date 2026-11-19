@@ -1,17 +1,18 @@
 ### Merhaba, ben Alper (if else) 👋
 
-🎮 Oyun geliştirme ve sistem programlama üzerine çalışan genç bir geliştiriciyim. Hedefim gelecekte **Riot Games** gibi büyük oyun stüdyolarında mühendis olarak yer almak.
+🎮 **Unity** ve **C#** kullanarak oyun tasarlayan ve geliştiren genç bir oyun geliştiricisiyim. Hedefim gelecekte **Riot Games** gibi büyük oyun stüdyolarında yer almak.
 
-- 🌱 Şu an **C++** temelleri ve oyun geliştirme mantığı üzerine yoğunlaşıyorum.
-- 💻 **C#** kullanarak masaüstü otomasyon araçları geliştirdim.
-- 🎯 Hedefim: Kendi C++ mini oyunlarımı sıfırdan inşa etmek.
+- 🕹️ **Unity & C#** ile oyun mekanikleri, karakter kontrolleri ve oynanış sistemleri geliştiriyorum.
+- 🌱 Temel sistem programlama becerilerimi güçlendirmek için **C++** öğrenmeye başlıyorum.
+- 🎯 Hedefim: Kendi özgün oyun prototiplerimi yayınlamak ve portfolyomu büyütmek.
 
 ---
 
-### 🛠️ Kullandığım & Öğrendiğim Diller
+### 🛠️ Kullandığım Teknolojiler & Araçlar
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
